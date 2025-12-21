@@ -1,77 +1,104 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhaskar Subhash
 
-# 👋 Hi, I'm Bhaskar Subhash (Bheesetti Bhaskar Subhash)
+🎓 Computer Science Engineering Student  
+💻 Software Developer | 🤖 ML & Systems Enthusiast  
+📍 India
 
-🎓 3rd Year Computer Science Engineering student at [Raghu Engineering College](https://raghuenggcollege.com/), with a diploma in Computer Engineering.
-
-💻 Passionate full-stack developer, curious learner, and problem-solver with a strong interest in web technologies, backend development, AI/ML, and operating systems.
-
----
-
-## 🛠️ Tech Stack
-
-### 🌐 Frontend
-- HTML, CSS, JavaScript
-- Angular, TailwindCSS, PrimeNG
-
-### 🧠 Backend & APIs
-- Node.js, Express.js
-- PHP, SQLite, MySQL, MongoDB
-
-### 🤖 AI/ML & Programming
-- Python, Java, C, C++, C#
-- Machine Learning (beginner), CNNs (used in project)
-
-### ⚙️ Tools
-- Git & GitHub
-- REST APIs, Postman
-- Visual Studio Code, Figma
+📧 **Email:** bhaskarsubash9393@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com  
+💻 **GitHub:** https://github.com/Iamgodop  
 
 ---
 
-## 📌 Notable Projects
+## 🧑‍💻 About Me
 
-### 🧠 Sign Language Interpreter
-A Python-based system that converts sign language gestures into text and speech using Machine Learning and Convolutional Neural Networks.
-- 🔹 Accuracy: 98% (internal), 93% (real-world)
-- 🔧 Tech Used: Python, OpenCV, TensorFlow
+I am a **Computer Science Engineering student** with strong academic foundations and hands-on experience in **software development, computer vision, and full-stack applications**.
 
-### ✅ ToDo Web App
-A full-featured task management app built with Angular.
-- 🔹 CRUD operations with modular components
-- 🔹 Integrated TailwindCSS for responsive UI
+I have led technical teams, built **assistive technologies**, and contributed to **production-level systems**. I am interested in **research-oriented and industry internships**, especially in:
 
-### 🧾 Credly Clone (Mini Project)
-A simplified version of Credly built from scratch.
-- 🔹 Stack: HTML, CSS, JS, SQLite, Express.js
-- 🔹 Role: Full-stack implementation
+- Systems & Operating Systems  
+- Machine Learning & Computer Vision  
+- Backend & Scalable Software Development  
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Java
+- Python
+- C / C++
+- JavaScript
+- SQL
+
+### Frameworks & Tools
+- Angular
+- Git
+- Neovim
+
+### Core CS Concepts
+- OOPS, DSA
+- Databases
+- Operating Systems
+- RESTful APIs
+- Computer Networks
+- Computer Organization
+
+---
+
+## 🧩 Projects
+
+### Sign Language Interpreter *(Team Lead)*
+**Python · TensorFlow · OpenCV · MediaPipe**
+- Built a real-time sign language recognition system using computer vision.
+- Designed an optimized gesture classification pipeline.
+- Focused on accessibility and assistive technology.
+
+### Communication Trainer for People with Down Syndrome
+**Python**
+- Developed an assistive learning application for communication improvement.
+- Emphasized usability and inclusivity.
+
+### ToDo Application
+**Angular**
+- Built a responsive task management application with CRUD functionality.
+- Used modular component-based architecture.
+
+### Ultimate Tic Tac Toe
+**Python**
+- Designed a terminal-based strategy game with extensible logic.
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iamgodop&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Iamgodop&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📈 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Iamgodop&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 💼 Experience
 
-**Full Stack Intern** – Tecnics Integration Technologies  
-*Nov 2023 – May 2024*  
-- Built POS, chat, and catalogue apps  
-- Mentored junior interns  
+### Software Development Intern  
+**Tecnics Integration Technologies Pvt. Ltd.**  
+*Nov 2023 – May 2024*
 
-**NSS Volunteer** – Raghu Engineering College  
-- Event leadership & coordination
-
----
-
-## 🏆 Achievements
-- 🥈 Runner-up: Code Frenzy by GDG, Raghu Engineering College
-- 💻 Hackathon Participant: Web Dev Hackathon @ ANITS
-- 👨‍💼 Project Lead: Sign Language Interpreter
+### Volunteer – National Service Scheme (NSS)  
+*Sep 2024 – Present*
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: bhaskarsubash9393@gmail.com  
-- 🔗 LinkedIn: [bhaskarsubhash](https://www.linkedin.com/in/bhaskarsubhash/)  
-- 💻 GitHub: [iamgodop](https://github.com/iamgodop)
+## 🎯 Currently Looking For
 
----
+- Research Internships
+- Software Development Internships
+- Backend / Systems / AI-ML Roles
 
-> “Aspiring to be a jack of all trades—and a master of the ones I love.”  
+📬 Feel free to explore my repositories or reach out.
