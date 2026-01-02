@@ -1,12 +1,11 @@
-# 👋 Hi, I'm Bhaskar Subhash
+# 👋 Hi, I'm Bhaskar Subhash B.
 
-🎓 Computer Science Engineering Student  
+🎓 Computer Science Engineering Student, 3rd year
 💻 Software Developer | 🤖 ML & Systems Enthusiast  
 📍 India
 
 📧 **Email:** bhaskarsubash9393@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com  
-💻 **GitHub:** https://github.com/Iamgodop  
 
 ---
 
@@ -27,14 +26,16 @@ I have led technical teams, built **assistive technologies**, and contributed to
 ### Programming Languages
 - Java
 - Python
-- C / C++
+- C++
 - JavaScript
 - SQL
+- Bash
 
 ### Frameworks & Tools
 - Angular
 - Git
 - Neovim
+- Linux (Arch)
 
 ### Core CS Concepts
 - OOPS, DSA
@@ -42,7 +43,6 @@ I have led technical teams, built **assistive technologies**, and contributed to
 - Operating Systems
 - RESTful APIs
 - Computer Networks
-- Computer Organization
 
 ---
 
@@ -63,10 +63,12 @@ I have led technical teams, built **assistive technologies**, and contributed to
 **Angular**
 - Built a responsive task management application with CRUD functionality.
 - Used modular component-based architecture.
+- Used Supabase to maintain user details, sessions and also as the DB.
 
 ### Ultimate Tic Tac Toe
 **Python**
 - Designed a terminal-based strategy game with extensible logic.
+- Designed an AI opponent for the game Ultimate Tic Tac Toe
 
 ---
 
